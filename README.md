@@ -23,4 +23,7 @@ run both Andriod and iOS devices because it builds with flutter.
 ![Preview](/home.jpg)
 ![Preview](/task.jpg)
 ![Preview](/todo.jpg)
+![Preview](/todos.jpg)
 ![Preview](/profile.jpg)
+
+![Preview](/dark.jpg)
