@@ -19,3 +19,8 @@ run both Andriod and iOS devices because it builds with flutter.
 => Todo page
 ## Photos
 ![Preview](/login.jpg)
+![Preview](/reg.jpg)
+![Preview](/home.jpg)
+![Preview](/task.jpg)
+![Preview](/todo.jpg)
+![Preview](/profile.jpg)
