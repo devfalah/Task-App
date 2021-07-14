@@ -18,4 +18,4 @@ run both Andriod and iOS devices because it builds with flutter.
 => Task page
 => Todo page
 ## Photos
-![Preview](/login.png)
+![Preview](/login.jpg)
